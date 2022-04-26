@@ -1,5 +1,10 @@
 body{
     color: red;
     text-align: center;
+<<<<<<< HEAD
     font-family: 'Courier';
+=======
+    font-family: Arial;
+    font-weight: bold;
+>>>>>>> cabecera
 }
